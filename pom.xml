@@ -1,0 +1,14 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>org.nield</groupId>
+    <artifactId>mavenrxtest</artifactId>
+    <version>1.0</version>
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/io.reactivex.rxjava3/rxjava -->
+        <dependency>
+            <groupId>io.reactivex.rxjava3</groupId>
+            <artifactId>rxjava</artifactId>
+            <version>3.1.9</version>
+        </dependency>
+    </dependencies>
+</project>
