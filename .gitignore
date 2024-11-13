@@ -29,6 +29,8 @@ $RECYCLE.BIN/
 .LSOverride
 .idea/*
 !.idea/modules.xml
+!.idea/Learning-RxJava.iml
+
 
 # Thumbnails
 ._*
