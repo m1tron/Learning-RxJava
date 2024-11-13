@@ -1,8 +1,7 @@
-package ch7;
 
-import io.reactivex.Observable;
-import io.reactivex.rxjavafx.observables.JavaFxObservable;
-import io.reactivex.rxjavafx.schedulers.JavaFxScheduler;
+import io.reactivex.rxjava3.core.Observable;
+import io.reactivex.rxjava3.core.rxjavafx.observables.JavaFxObservable;
+import io.reactivex.rxjava3.core.rxjavafx.schedulers.JavaFxScheduler;
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.control.Label;

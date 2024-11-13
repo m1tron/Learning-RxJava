@@ -1,7 +1,6 @@
-package ch5;
 
-import io.reactivex.subjects.AsyncSubject;
-import io.reactivex.subjects.Subject;
+import io.reactivex.rxjava3.subjects.AsyncSubject;
+import io.reactivex.rxjava3.subjects.Subject;
 
 public class Ch5_25 {
     public static void main(String[] args) {

@@ -1,6 +1,5 @@
-package ch2;
 
-import io.reactivex.Maybe;
+import io.reactivex.rxjava3.core.Maybe;
 
 public class Ch2_30 {
     public static void main(String[] args) {

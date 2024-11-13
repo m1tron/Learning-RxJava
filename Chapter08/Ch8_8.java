@@ -1,7 +1,6 @@
-package ch8;
 
-import io.reactivex.Observable;
-import io.reactivex.schedulers.Schedulers;
+import io.reactivex.rxjava3.core.Observable;
+import io.reactivex.rxjava3.schedulers.Schedulers;
 
 import static ch5.Ch5_21.sleep;
 

@@ -1,7 +1,6 @@
-package ch2;
 
-import io.reactivex.Observable;
-import io.reactivex.observables.ConnectableObservable;
+import io.reactivex.rxjava3.core.Observable;
+import io.reactivex.rxjava3.observables.ConnectableObservable;
 
 public class Ch2_14 {
     public static void main(String[] args) {

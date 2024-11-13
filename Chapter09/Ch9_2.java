@@ -1,7 +1,6 @@
-package ch9;
 
-import io.reactivex.Observable;
-import io.reactivex.ObservableTransformer;
+import io.reactivex.rxjava3.core.Observable;
+import io.reactivex.rxjava3.core.ObservableTransformer;
 
 public class Ch9_2 {
     public static void main(String[] args) {

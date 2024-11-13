@@ -1,8 +1,7 @@
-package ch9;
 
 import com.google.common.collect.ImmutableList;
-import io.reactivex.Flowable;
-import io.reactivex.FlowableTransformer;
+import io.reactivex.rxjava3.core.Flowable;
+import io.reactivex.rxjava3.core.FlowableTransformer;
 
 public class Ch9_3 {
     public static void main(String[] args) {

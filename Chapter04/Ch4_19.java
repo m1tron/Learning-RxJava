@@ -1,7 +1,6 @@
-package ch4;
 
-import io.reactivex.Observable;
-import io.reactivex.observables.GroupedObservable;
+import io.reactivex.rxjava3.core.Observable;
+import io.reactivex.rxjava3.observables.GroupedObservable;
 
 public class Ch4_19 {
     public static void main(String[] args) {

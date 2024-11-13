@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$" dumb="true">
+      <sourceFolder url="file://$MODULE_DIR$/Chapter01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter03" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter04" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter05" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter06" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter07" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter08" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter09" isTestSource="false" />
+
+
+    </content>
+  </component>
+</module>

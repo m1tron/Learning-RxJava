@@ -1,9 +1,8 @@
-package ch5;
 
-import io.reactivex.Observable;
-import io.reactivex.subjects.ReplaySubject;
-import io.reactivex.subjects.Subject;
-import io.reactivex.subjects.UnicastSubject;
+import io.reactivex.rxjava3.core.Observable;
+import io.reactivex.rxjava3.subjects.ReplaySubject;
+import io.reactivex.rxjava3.subjects.Subject;
+import io.reactivex.rxjava3.subjects.UnicastSubject;
 
 import java.util.concurrent.TimeUnit;
 

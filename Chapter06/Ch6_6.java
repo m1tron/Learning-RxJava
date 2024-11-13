@@ -1,7 +1,6 @@
-package ch6;
 
-import io.reactivex.schedulers.Schedulers;
-import io.reactivex.Observable;
+import io.reactivex.rxjava3.schedulers.Schedulers;
+import io.reactivex.rxjava3.core.Observable;
 
 import java.util.concurrent.ThreadLocalRandom;
 

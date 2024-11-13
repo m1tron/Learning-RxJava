@@ -1,6 +1,5 @@
-package ch4;
 
-import io.reactivex.Observable;
+import io.reactivex.rxjava3.core.Observable;
 
 public class Ch4_1 {
     public static void main(String[] args) {

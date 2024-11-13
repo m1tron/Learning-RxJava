@@ -1,7 +1,6 @@
-package ch9;
 
-import io.reactivex.Observable;
-import io.reactivex.SingleTransformer;
+import io.reactivex.rxjava3.core.Observable;
+import io.reactivex.rxjava3.core.SingleTransformer;
 
 import java.util.Collection;
 import java.util.Collections;
